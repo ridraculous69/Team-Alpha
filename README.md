@@ -111,6 +111,8 @@ https://appreal-vr.com/blog/virtual-reality-and-artificial-intelligence/
 https://www.bcg.com/publications/2019/what-is-trending-jobs-skills.aspx
 <br/>
 
+
+<br/>
 _James_ : **AI Software Developer (High-growth job)
 
 <br/>
