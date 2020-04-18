@@ -272,10 +272,15 @@ friends?
 
 ## References
 >Burning Glass Technologies | Real-Time Job Market Analytics Software. Burning Glass Technologies. (2019). Retrieved 18 April 2020, from https://www.burning-glass.com/.
+<br/>
 >Do You Have the Top Skills Employers Want?. The Balance Careers. (2020). Retrieved 18 April 2020, from https://www.thebalancecareers.com/top-skills-employers-want-2062481.
+<br/>
 >Kaspersky.com.au. (2020). Retrieved 18 April 2020, from https://www.kaspersky.com.au/resource-center/definitions/what-is-cyber-security.
+<br/>
 >What is Cybersecurity?. Forcepoint. (2020). Retrieved 18 April 2020, from https://www.forcepoint.com/cyber-edu/cybersecurity.
+<br/>
 >Examining the state-of-the-art in cybersecurity. Rand.org. (2020). Retrieved 18 April 2020, from https://www.rand.org/randeurope/research/projects/cybersecurity-state-of-the-art.html.
+<br/>
 
 
 
