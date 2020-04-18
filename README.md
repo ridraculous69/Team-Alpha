@@ -133,7 +133,7 @@ General skills required included the following: Algorithmic understanding, probl
 Three highest ranked IT-specific skillset which is not required in my skillset are: Fintech (Financial Technology). The rest of the skillset listed are all necessary requirements. For Artificial intelligence - Machine learning, Natural language processing, Data Visualisation, Application programming interface, Data science to name a few are all complimentary and necessary.
 
 Three highest ranked general skillset will be problem solving, positive attitude and leadership skills. Problem solving skills allow you to approach different kinds of projects in a very techical manner. Positive attitude is also one of key components and highest ranked general skillset. The reason being, is that when working on projects, it is possible that you come across an error or a bug or it just doesn't work out. That's when you neeed to be patient by trying to have a positive perspective to your problem solving approach. When doing an IT project you'll find that most likely you will work in a group, as a team. Hence, being able to have an ability to lead the team to set deadlines and set a clear goal is an important skillset to have to achieve the desired end result. 
-
+<br/>
 
 
 ## Interview Questions with IT Professional who's working in Cybersecurity industry as a penetration tester
@@ -190,12 +190,18 @@ The long, elaborated answer would be, you not only need to know how to hack but 
 <br/>
 
 >Cyber Security is the state or process of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It is comprised of an evolving set of tools, risk management approaches, technologies and training that applies to a variety of contexts from business to computing. It is designed to protect networks, devices, and programs from unauthorized access and can be divided into categories.
+<br/>
 
 •	Network Security: Securing computer network from intruders
+<br/>
 •	Application Security: Keeping software and devices free of threats
+<br/>
 •	Information Security: Protection of privacy of data in storage and transit
+<br/>
 •	Operational Security: Processes and decision handling for permission users to determine how and where to store and share data.
+<br/>
 •	Disaster recovery and business continuity: Defines how an organisation will respond to cyber-security incident or other events that leads to operation or data loss.
+<br/>
 •	End-user education: Teaching users to delete suspicious emails and attachments due to unpredicted cyber-security factor.
 <br/>
 
@@ -203,9 +209,14 @@ According to a research by RAND Corporation, the current state-of-the-art cybers
 <br/>
 
 The scale of cyber threat is a global phenomenon which continues to evolve at a rapid pace with the rising of IT development. According to RiskBased Security, in 2019 alone, more than 7.9 billion records have been exposed by data breaches which is more than 112% compared to 2018’s figure of records exposure. Cybercriminals target fields such as the medical services, retailers and the public due to the collection of financial and medical data they hold. A data by International Data Corporation predicts $133.7 billion will be spent on cybersecurity by 2022. Cybercriminals use cyber threats such as:
+<br/>
+
 •	Cybercrime: Targeting of systems in a single or group factor to gain financially or disrupt activities.
+<br/>
 •	Cyber-attack: Politically motivated information gathering
+<br/>
 •	Cyberterrorism: Uses electronic systems to cause panic or fear. 
+<br/>
 •	Malware: Is a malicious software used for cyber threatening by disrupting or destroying software’s by using viruses, trojans, spyware, ransomware, adware, and botnets.
 <br/>
 
