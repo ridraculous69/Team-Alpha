@@ -187,17 +187,34 @@ The long, elaborated answer would be, you not only need to know how to hack but 
 <br/>
 
 ### Cybersecurity
+<br/>
 
->For each of the areas covered, you should report on the following.
-What does it do? (600 words) What is the state of the art of this new technology?
-What can be done now? What is likely to be able to do be done soon (say in the next
-3 years)? What technological or other developments make this possible?
-What is the likely impact? (300 words) What is the potential impact of this
-development? What is likely to change? Which people will be most affected and
-how? Will this create, replace or make redundant any current jobs or technologies?
-How will this affect you? (300 words) In your daily life, how will this affect you?
-What will be different for you? How might this affect members of your family or your
-friends?
+>Cyber Security is the state or process of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It is comprised of an evolving set of tools, risk management approaches, technologies and training that applies to a variety of contexts from business to computing. It is designed to protect networks, devices, and programs from unauthorized access and can be divided into categories.
+
+•	Network Security: Securing computer network from intruders
+•	Application Security: Keeping software and devices free of threats
+•	Information Security: Protection of privacy of data in storage and transit
+•	Operational Security: Processes and decision handling for permission users to determine how and where to store and share data.
+•	Disaster recovery and business continuity: Defines how an organisation will respond to cyber-security incident or other events that leads to operation or data loss.
+•	End-user education: Teaching users to delete suspicious emails and attachments due to unpredicted cyber-security factor.
+<br/>
+
+According to a research by RAND Corporation, the current state-of-the-art cybersecurity is in suffers from the scarcity of reliable, verifiable date due to large scale and longitudinal datasets from across many of the findings. Thus, making it difficult to define and understand the challenge or problem in the field of cybersecurity. Furthermore, there are identified gaps which includes a lack of research into cybersecurity within a worldwide context, ethics and legal concerns and major game changers such as the dark web, artificial intelligence, and quantum-related technologies.
+<br/>
+
+The scale of cyber threat is a global phenomenon which continues to evolve at a rapid pace with the rising of IT development. According to RiskBased Security, in 2019 alone, more than 7.9 billion records have been exposed by data breaches which is more than 112% compared to 2018’s figure of records exposure. Cybercriminals target fields such as the medical services, retailers and the public due to the collection of financial and medical data they hold. A data by International Data Corporation predicts $133.7 billion will be spent on cybersecurity by 2022. Cybercriminals use cyber threats such as:
+•	Cybercrime: Targeting of systems in a single or group factor to gain financially or disrupt activities.
+•	Cyber-attack: Politically motivated information gathering
+•	Cyberterrorism: Uses electronic systems to cause panic or fear. 
+•	Malware: Is a malicious software used for cyber threatening by disrupting or destroying software’s by using viruses, trojans, spyware, ransomware, adware, and botnets.
+<br/>
+
+Cybersecurity is constantly evolving and in 3 years’ time billions more will be spent due to the rise of high demands for this field. As technology rapidly evolves, criminal doings will too for the opportunity of financial gain and causing harm to targeted users. It is estimated that, on average, a data breach costs an affected organization $3.6 million. With high-profile data breaches making media headlines, it is essential that organizations adopt and implement a strong cybersecurity approach.
+Developing better security in technology is paramount as ways to hack and disrupt software’s are readily available in the internet. Today’s cyber security teams should be able to handle and come up with new tactics to fend off highly advanced threats against the increasingly interconnected enterprise networks. The potential impact of technology rising means more job opportunities for the security team. According to Burning Glass, IT skills are in high demand and with the COVID-19 occurring right now, it will continue to rise as everyone is staying and working from home and what do they use, technology of course. This will create more job opportunities for more people as IT course are mainly done online such as the course I am taking. With a laptop or computer handy and an adequate internet connection, people who lost their job because of the pandemic can easily access information regarding IT as so much information are given away for free on the internet. The government are also helping by creating job opportunities for the affected plus free courses are readily made available by the government for those who cannot afford to study. Cyber security will be one of the highest in-demand jobs in the future due to the rise of technology as the more people create the more other people will destroy.
+<br/>
+
+Social media such as Facebook, Instagram and twitter are famous for becoming hacked which can breach user’s privacy exposing cybercriminals to information which can be used for harassment or financial gain. More and more people are getting baited using cybercriminals malwares that comes up on most free websites. As technology advances, parents are more likely to give their kids gadgets at a younger age which compromises their identity when certain apps and websites are visited with their name, age and email address being requested before sites and apps can be used. Cybercriminals discriminates on the younger and older generation with little or no knowledge to technology. Just by providing your name and date of birth, hackers can find out more information by using social media to track down your Facebook If not set on private which they can then be used to harass the user. Criminal activities like these are often due to the rapid increase of the social media empire. I have been a victim of malwares myself as I usually ignore warning and open sites without thinking. Recently a friend of mines identity has been stolen and her Facebook has been reported for being the fake one. Instances like this occur daily where people will message you links due to their account being hack by criminals and very often their friends. Other methods hackers will gain your information is through online shopping; my mum and friends credit card details has been hacked and used overseas by using eBay and Amazon. As stated before, billions of data are being breached by the second due to improper use of technology and software, and cybersecurity must evolve and expand their horizon with the upcoming rise of technology.
+<br/>
 
 
 ### Autonomous vehicles
@@ -245,7 +262,9 @@ friends?
 ## References
 >Burning Glass Technologies | Real-Time Job Market Analytics Software. Burning Glass Technologies. (2019). Retrieved 18 April 2020, from https://www.burning-glass.com/.
 >Do You Have the Top Skills Employers Want?. The Balance Careers. (2020). Retrieved 18 April 2020, from https://www.thebalancecareers.com/top-skills-employers-want-2062481.
-
+>Kaspersky.com.au. (2020). Retrieved 18 April 2020, from https://www.kaspersky.com.au/resource-center/definitions/what-is-cyber-security.
+>What is Cybersecurity?. Forcepoint. (2020). Retrieved 18 April 2020, from https://www.forcepoint.com/cyber-edu/cybersecurity.
+>Examining the state-of-the-art in cybersecurity. Rand.org. (2020). Retrieved 18 April 2020, from https://www.rand.org/randeurope/research/projects/cybersecurity-state-of-the-art.html.
 
 
 
