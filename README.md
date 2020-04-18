@@ -2,8 +2,14 @@
 
 
 
-### Team members
->Kimverly Pilapil (3609748)
+<br/>
+
+## Team members
+
+
+<br/>
+
+# >Kimverly Pilapil (3609748)
 
 <br/>
 
@@ -24,7 +30,7 @@ My name is Kimverly or Kim for short. I was born in the Philippines and arrived 
 
 <br/>
 
->Jaehyeok Choi (3769271)
+# >Jaehyeok Choi (3769271)
 
 ![qconcert](https://user-images.githubusercontent.com/62003066/79629403-d2c8c900-818c-11ea-9754-2a3e4e5b77ec.jpg)
 
@@ -36,10 +42,16 @@ My name is James or J for short. I was born in Seoul, South Korea and arrived in
 
 
 
-###Team Profile
+## Team Profile
 <br/>
 
 Kim: 
+<br/>
+
+![campaigner](https://user-images.githubusercontent.com/62003066/79629728-2e945180-818f-11ea-988c-fd5a4b80db47.jpg)
+
+
+<br/>
 
 >The result of this test means that I tend to see life as a big, complex puzzle where everything is interconnected. I work really well in a team as I am easily agreeable and like to keep the environment in a peaceful and civil manner. I'm also not afraid to stick up for what is right and will always or most likely get along with everyone in the team. My open-mindedness helps with decision-making while my extrovert personally can help reach out to others who are afraid to have a say during group discussions.
 There are a few personality types I won't be able to agree with but I can work well in any team that are able to come to a conclusion regarding what they want the end goal of the team project to be. I am kind to a fault and will always play the role of the "peace keeper" which will prove beneficial during group project designations.
@@ -47,12 +59,19 @@ There are a few personality types I won't be able to agree with but I can work w
 <br/>
 
 James:
+<br/>
+
+![advocate](https://user-images.githubusercontent.com/62003066/79629683-d3faf580-818e-11ea-8ddf-d8ebf6a228bd.jpg)
+
+
+<br/>
+
 
 >The test results indicated that I approach life as a creative playground where I can explore different opportunities in a very imaginative, open-minded and curious manner. Working in a team environment is something that I can thrive in as I am very observative and analytical, as well as always looking for a better solution for the team. I believe social harmony and cooperation is one of the key important factors when working in a group. Being able to approach tasks with a decisive, thorough and highly organized manner, I can help our team to finish set tasks in a structured timeline so we can all achieve a great end result. 
 
 <br/>
 
-###Teamwork Style
+## Teamwork Style
 >Both our test results shows how we both thrive in a team environment by utilising our opend-mindedness and positive attitude towards creating peace and harmony in our group. This will allow better structured group designations to complete our tasks in a timely manner to achieve better outcomes in our group assignments.
 
 
