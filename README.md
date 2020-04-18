@@ -128,15 +128,11 @@ _Kim_ : **VR Software Developer (High-growth job)
 
 According to the graph shown, IT skillsets such as Artificial Intelligence which ranks seconds, and IT Automation ranking third, it clearly shows how in-demand these jobs will be in the upcoming years.
 
+General skills required included the following: Algorithmic understanding, problem solving, Leadership skills, Positive Attitude and Technical Skils. General skills are a compliment to your IT skillsets and it will advance your ability to contribute to projects and team assignments much better.
 
+Three highest ranked IT-specific skillset which is not required in my skillset are: Fintech (Financial Technology). The rest of the skillset listed are all necessary requirements. For Artificial intelligence - Machine learning, Natural language processing, Data Visualisation, Application programming interface, Data science to name a few are all complimentary and necessary.
 
-
-
-
-
-
-
-
+Three highest ranked general skillset will be problem solving, positive attitude and leadership skills. Problem solving skills allow you to approach different kinds of projects in a very techical manner. Positive attitude is also one of key components and highest ranked general skillset. The reason being, is that when working on projects, it is possible that you come across an error or a bug or it just doesn't work out. That's when you neeed to be patient by trying to have a positive perspective to your problem solving approach. When doing an IT project you'll find that most likely you will work in a group, as a team. Hence, being able to have an ability to lead the team to set deadlines and set a clear goal is an important skillset to have to achieve the desired end result. 
 
 
 
