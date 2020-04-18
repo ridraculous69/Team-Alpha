@@ -213,7 +213,7 @@ How will this affect you? (300 words) In your daily life, how will this affect y
 What will be different for you? How might this affect members of your family or your
 friends?
 
-### Robots
+### Natural Language processing and chatterbots
 
 >For each of the areas covered, you should report on the following.
 What does it do? (600 words) What is the state of the art of this new technology?
