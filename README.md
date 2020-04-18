@@ -26,7 +26,8 @@ My name is Kimverly or Kim for short. I was born in the Philippines and arrived 
 
 >Jaehyeok Choi (3769271)
 
-![jnk](https://user-images.githubusercontent.com/62003066/79629289-c2fcb500-818b-11ea-8abc-2e6709b265e7.jpg)
+![qconcert](https://user-images.githubusercontent.com/62003066/79629403-d2c8c900-818c-11ea-9754-2a3e4e5b77ec.jpg)
+
 
 <br/>
 
@@ -48,6 +49,11 @@ There are a few personality types I won't be able to agree with but I can work w
 James:
 
 >The test results indicated that I approach life as a creative playground where I can explore different opportunities in a very imaginative, open-minded and curious manner. Working in a team environment is something that I can thrive in as I am very observative and analytical, as well as always looking for a better solution for the team. I believe social harmony and cooperation is one of the key important factors when working in a group. Being able to approach tasks with a decisive, thorough and highly organized manner, I can help our team to finish set tasks in a structured timeline so we can all achieve a great end result. 
+
+<br/>
+
+###Teamwork Style
+>Both our test results shows how we both thrive in a team environment by utilising our opend-mindedness and positive attitude towards creating peace and harmony in our group. This will allow better structured group designations to complete our tasks in a timely manner to achieve better outcomes in our group assignments.
 
 
 
