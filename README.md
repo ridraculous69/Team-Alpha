@@ -22,9 +22,32 @@ My name is Kimverly or Kim for short. I was born in the Philippines and arrived 
 
 <br/>
 
+<br/>
+
 >Jaehyeok Choi (3769271)
 
+![jnk](https://user-images.githubusercontent.com/62003066/79629289-c2fcb500-818b-11ea-8abc-2e6709b265e7.jpg)
 
+<br/>
+
+
+My name is James or J for short. I was born in Seoul, South Korea and arrived in Australia back in 2006. At home, I can speak Korean. I have extensive career experience in banking, and as a consultant. I’m a big fan of soccer and outdoor activities. My hobbies tend to include going to the gym and lifting weights, playing soccer in a team and at times reading in my spare time to pass time. I also enjoy playing the piano, where I have started since I was 7 years old. My interest in IT originated from seeing big tech heroes like Elon Musk and Mark Zuckerberg. Seeing them take a step each day to make our lives better for our future is truly inspirational and I too, would like to be part of similar industries. I have very little experience when it comes to IT skills, however, I have used a few softwares like Salesforce and Acuity Scheduling, Monday.com and so on. 
+
+
+
+###Team Profile
+<br/>
+
+Kim: 
+
+>The result of this test means that I tend to see life as a big, complex puzzle where everything is interconnected. I work really well in a team as I am easily agreeable and like to keep the environment in a peaceful and civil manner. I'm also not afraid to stick up for what is right and will always or most likely get along with everyone in the team. My open-mindedness helps with decision-making while my extrovert personally can help reach out to others who are afraid to have a say during group discussions.
+There are a few personality types I won't be able to agree with but I can work well in any team that are able to come to a conclusion regarding what they want the end goal of the team project to be. I am kind to a fault and will always play the role of the "peace keeper" which will prove beneficial during group project designations.
+
+<br/>
+
+James:
+
+>The test results indicated that I approach life as a creative playground where I can explore different opportunities in a very imaginative, open-minded and curious manner. Working in a team environment is something that I can thrive in as I am very observative and analytical, as well as always looking for a better solution for the team. I believe social harmony and cooperation is one of the key important factors when working in a group. Being able to approach tasks with a decisive, thorough and highly organized manner, I can help our team to finish set tasks in a structured timeline so we can all achieve a great end result. 
 
 
 
