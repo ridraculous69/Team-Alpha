@@ -187,13 +187,69 @@ The long, elaborated answer would be, you not only need to know how to hack but 
 <br/>
 
 
+## IT Technologies
+<br/>
+
+### Cybersecurity
+
+>For each of the areas covered, you should report on the following.
+What does it do? (600 words) What is the state of the art of this new technology?
+What can be done now? What is likely to be able to do be done soon (say in the next
+3 years)? What technological or other developments make this possible?
+What is the likely impact? (300 words) What is the potential impact of this
+development? What is likely to change? Which people will be most affected and
+how? Will this create, replace or make redundant any current jobs or technologies?
+How will this affect you? (300 words) In your daily life, how will this affect you?
+What will be different for you? How might this affect members of your family or your
+friends?
 
 
+### Autonomous vehicles
+
+>For each of the areas covered, you should report on the following.
+What does it do? (600 words) What is the state of the art of this new technology?
+What can be done now? What is likely to be able to do be done soon (say in the next
+3 years)? What technological or other developments make this possible?
+What is the likely impact? (300 words) What is the potential impact of this
+development? What is likely to change? Which people will be most affected and
+how? Will this create, replace or make redundant any current jobs or technologies?
+How will this affect you? (300 words) In your daily life, how will this affect you?
+What will be different for you? How might this affect members of your family or your
+friends?
+
+### Robots
+
+>For each of the areas covered, you should report on the following.
+What does it do? (600 words) What is the state of the art of this new technology?
+What can be done now? What is likely to be able to do be done soon (say in the next
+3 years)? What technological or other developments make this possible?
+What is the likely impact? (300 words) What is the potential impact of this
+development? What is likely to change? Which people will be most affected and
+how? Will this create, replace or make redundant any current jobs or technologies?
+How will this affect you? (300 words) In your daily life, how will this affect you?
+What will be different for you? How might this affect members of your family or your
+friends?
+
+### Machine Learning
+
+>For each of the areas covered, you should report on the following.
+What does it do? (600 words) What is the state of the art of this new technology?
+What can be done now? What is likely to be able to do be done soon (say in the next
+3 years)? What technological or other developments make this possible?
+What is the likely impact? (300 words) What is the potential impact of this
+development? What is likely to change? Which people will be most affected and
+how? Will this create, replace or make redundant any current jobs or technologies?
+How will this affect you? (300 words) In your daily life, how will this affect you?
+What will be different for you? How might this affect members of your family or your
+friends?
 
 
+<br/>
 
 ## References
 >Burning Glass Technologies | Real-Time Job Market Analytics Software. Burning Glass Technologies. (2019). Retrieved 18 April 2020, from https://www.burning-glass.com/.
+>Do You Have the Top Skills Employers Want?. The Balance Careers. (2020). Retrieved 18 April 2020, from https://www.thebalancecareers.com/top-skills-employers-want-2062481.
+
 
 
 
