@@ -113,11 +113,11 @@ https://www.bcg.com/publications/2019/what-is-trending-jobs-skills.aspx
 
 
 <br/>
-_James_ : **AI Software Developer (High-growth job)
+>James: **AI Software Developer (High-growth job)
 
 <br/>
 
-_Kim_ : **VR Software Developer (High-growth job)
+>Kim: **VR Software Developer (High-growth job)
 
 <br/>
 
