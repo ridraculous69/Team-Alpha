@@ -4,12 +4,12 @@
 
 <br/>
 
-## Team members
+# Team members
 
 
 <br/>
 
-# >Kimverly Pilapil (3609748)
+## >Kimverly Pilapil (3609748)
 
 <br/>
 
@@ -30,7 +30,7 @@ My name is Kimverly or Kim for short. I was born in the Philippines and arrived 
 
 <br/>
 
-# >Jaehyeok Choi (3769271)
+## >Jaehyeok Choi (3769271)
 
 ![qconcert](https://user-images.githubusercontent.com/62003066/79629403-d2c8c900-818c-11ea-9754-2a3e4e5b77ec.jpg)
 
@@ -74,8 +74,25 @@ James:
 ## Teamwork Style
 >Both our test results shows how we both thrive in a team environment by utilising our opend-mindedness and positive attitude towards creating peace and harmony in our group. This will allow better structured group designations to complete our tasks in a timely manner to achieve better outcomes in our group assignments.
 
+<br/>
 
 
+## Ideal Jobs
+<br/>
+
+
+![vrai](https://user-images.githubusercontent.com/62003066/79629825-dad63800-818f-11ea-9da7-6a8bc7a6d2eb.png)
+<br/>
+https://appreal-vr.com/blog/virtual-reality-and-artificial-intelligence/
+
+<br/>
+
+>Our ideal jobs both consist of helping create technological advancement in the future. I would like to manufacture VRs similar to “Black Mirrors” earbud sized headsets which would enable players’ mind and body to be fully immersed in a VR world. This is a massive project as it resolves the understanding of the human mind and how technology can be incorporated to enable partial/full control of the brain. The same as James’ ideal job of developing AI’s to help assist with daily needs such as voice assist and being able to use AI technology in the healthcare industry to assist with surgeries as well as detect possible cancer cells to stop and prevent the spread of the disease before it is too late. The impact this technology will bring to our society is not only to save time but lives as well. 
+ It will serve to act as the foundation upon which the virtual environment will exist.
+
+<br/>
+ 
+>With both the complex systems together combined, the VR and AI will essentially change our perspectives towards opening up channels for healthcare, education, business, and entertainment.The advancement of technology is making a massive shift in how it impacts the way we live, work, and entertain ourselves. Big business game plays are coming and at the heart of it will be virtual reality and artificial intelligence. But as our technology advances, is our generation becoming lazier from the alteration of making anything and everything easier in our daily lives with the help of technology?
 
 
 
