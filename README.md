@@ -253,16 +253,27 @@ friends?
 
 ### Machine Learning
 
->For each of the areas covered, you should report on the following.
-What does it do? (600 words) What is the state of the art of this new technology?
-What can be done now? What is likely to be able to do be done soon (say in the next
-3 years)? What technological or other developments make this possible?
-What is the likely impact? (300 words) What is the potential impact of this
-development? What is likely to change? Which people will be most affected and
-how? Will this create, replace or make redundant any current jobs or technologies?
-How will this affect you? (300 words) In your daily life, how will this affect you?
-What will be different for you? How might this affect members of your family or your
-friends?
+
+Let’s talk about Machine learning. I’m sure you’ve heard of this terminology thrown around before, especially if you’re a big technology fan or a sci-fi movie fan like myself. Machine learning refers to an application or a system of Artificial Intelligence. It gives the computer system to learn by absorbing information, and essentially build up from an experience without having a programmer explicitly program the system. Simply said, it’s a branch of artificial intelligence. The system can learn autonomously from given data by identifying its objects and patterns observed and make an informed final decision with zero to minimal human interventions.
+
+When it comes to machine learning you might be wondering, what can it be done right now, as of this exact moment? Well, simply said, a lot of things. But it doesn’t mean that we’re near perfect. There are a lot of aspects and areas still to be explored and delved into in more depth until we master the state of this art. We have Virtual Personal Assistants such as – Siri, Amazon Alexa, Bixby and Google – which we have all heard of. There are also traffic predictions when we’re using Google GPS where it predicts traffic, video surveillance using facial recognition, product recommendations and even, autocorrect on our phones and word documents. Pretty cool right?
+
+It’s actually quite impressive to know that we’re not far off from the utopian future we’ve only dreamed of, something that was only from a movie, where all these different kind of Machine Learning technologies are already being implemented in a very convenient and seamless way within our daily lives. But there’s more. More ways machine learning can thrive into far more different fields and industries, especially in the upcoming years. Unfortunately, machine learning and Artificial Intelligence being used in the medical industry or healthcare industry is too soon to say as the Harvard research suggests. So, what will thrive within the next three years? What will thrive the most is Virtual Voice Assistant. For example, Google is currently in the works of expanding their “Google assistant’s ability to understand personal references.” Such as, if a user says, “Hey Google, what’s the weather like at Mum’s house,” Google will be able to determine that “Mum’s house” refers to the home of the user’s mother, look up her address and provide a weather forecast for her city. It will be implemented in such a way that will add an additional touch of convenience as our daily devices like mobile phone can better understand us.
+
+So, what technological aspect or development areas make machine learning possible? Machine learning analyses data given and it automates an analytical model building or structure. Being able to recognize and identify patterns and train over and over again improves the ability of an A.I. The development areas that makes machine learning possible are the ability to adequately define our problem, objective and desired outputs, able to gather data, and implementing learning process. 
+
+Machine learning, artificial intelligence is considered to be one of the biggest innovations since the microchip. It is a concept from movies and science fiction novels brought to reality. The impact machine learning can bring to our humanity varies, and the majority of the impacts are the positives. Making us live happier, healthier and more productive lifestyles. Let’s name a few examples. Self-driving cars and automated transportation. Despite following the road rules, we are human being after all, we all can make mistakes and sometimes, just sometimes, those mistakes can be critical and bring misfortune to ourselves but to our friends and families as well. Automated vehicles offer greater road safety. Automation can help reduce the number of crashes or accidents that happen quite regularly. It’ll also be a great convenience for people with disabilities, who are incapable of self-sufficiency. It can help them live the life they want. Another greater impact it can bring to all of us is increase our productivity levels. In a fully automated vehicle, all occupants could safely pursue their daily tasks such as checking their emails and texts, reading, being on a phone call or even meditate or have that piece of mind when commuting to work. Things that will be likely to change are the job opportunities available. People that will be affected the most are transport drivers, train operators, uber drivers, essentially who works as a vehicle operator. The way for them to make money will be gone and they’ll be forced out of jobs and find another way to create cashflow. Replacing manual work with automated systems, it is inevitable that it will make a lot of people in these industries redundant.  
+
+How will this change affect me? It will have a very positive impact on my daily lives and my schedule. I am pro-technology and cannot wait for these changes to come into place permanently. It will not only increase my productivity levels but it will free up time in my day. That will be the major difference for me. How it would affect my family members or friends is also very similar. Even my grandparents are quite tech-savvy, as well as my parents. They welcome change and are very open-minded. They are also very fast to adapt and implement new technologies or systems in their daily lives. As working professionals, for myself and for my friends, we will all appreciate the change as it will provide us with more opportunities to allocate extra hours in our days to something else, give us the piece of mind, being able to relax when driving, and much more. If you’re not open to these changes and against it, I would first ask you, why? Wouldn’t you want more time throughout your day? Wouldn’t you want that piece of mind on your commute to work? Wouldn’t you want more convenience?
+
+<br/>
+
+## References
+
+https://coalitionforfuturemobility.com/benefits-of-self-driving-vehicles/
+https://www.sas.com/en_us/insights/analytics/machine-learning.html#machine-learning-today-world
+https://arstechnica.com/gadgets/2019/05/googles-machine-learning-strategy-hardware-software-and-lots-of-data/ 
+
 
 
 <br/>
