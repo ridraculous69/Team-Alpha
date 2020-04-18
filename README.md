@@ -111,14 +111,10 @@ https://appreal-vr.com/blog/virtual-reality-and-artificial-intelligence/
 https://www.bcg.com/publications/2019/what-is-trending-jobs-skills.aspx
 <br/>
 
-
-<br/>
->James: **AI Software Developer (High-growth job)
-
+James: AI Software Developer (High-growth job)
 <br/>
 
->Kim: **VR Software Developer (High-growth job)
-
+Kim:VR Software Developer (High-growth job)
 <br/>
 
 >High-growth jobs are those that have fewer than 10,000 annual postings but are growing at an extremely high rate (more than 40%).
@@ -136,6 +132,7 @@ Three highest ranked general skillset will be problem solving, positive attitude
 <br/>
 
 
+<br/>
 ## Interview Questions with IT Professional who's working in Cybersecurity industry as a penetration tester
 
 <br/>
