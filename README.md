@@ -111,14 +111,10 @@ https://appreal-vr.com/blog/virtual-reality-and-artificial-intelligence/
 https://www.bcg.com/publications/2019/what-is-trending-jobs-skills.aspx
 <br/>
 
-
-<br/>
-_James_ : **AI Software Developer (High-growth job)
-
+James: AI Software Developer (High-growth job)
 <br/>
 
-_Kim_ : **VR Software Developer (High-growth job)
-
+Kim:VR Software Developer (High-growth job)
 <br/>
 
 >High-growth jobs are those that have fewer than 10,000 annual postings but are growing at an extremely high rate (more than 40%).
@@ -136,6 +132,7 @@ Three highest ranked general skillset will be problem solving, positive attitude
 <br/>
 
 
+<br/>
 ## Interview Questions with IT Professional who's working in Cybersecurity industry as a penetration tester
 
 <br/>
@@ -282,11 +279,16 @@ https://arstechnica.com/gadgets/2019/05/googles-machine-learning-strategy-hardwa
 <br/>
 
 ## References
->Burning Glass Technologies | Real-Time Job Market Analytics Software. Burning Glass Technologies. (2019). Retrieved 18 April 2020, from https://www.burning-glass.com/.
->Do You Have the Top Skills Employers Want?. The Balance Careers. (2020). Retrieved 18 April 2020, from https://www.thebalancecareers.com/top-skills-employers-want-2062481.
->Kaspersky.com.au. (2020). Retrieved 18 April 2020, from https://www.kaspersky.com.au/resource-center/definitions/what-is-cyber-security.
->What is Cybersecurity?. Forcepoint. (2020). Retrieved 18 April 2020, from https://www.forcepoint.com/cyber-edu/cybersecurity.
->Examining the state-of-the-art in cybersecurity. Rand.org. (2020). Retrieved 18 April 2020, from https://www.rand.org/randeurope/research/projects/cybersecurity-state-of-the-art.html.
+Burning Glass Technologies | Real-Time Job Market Analytics Software. Burning Glass Technologies. (2019). Retrieved 18 April 2020, from https://www.burning-glass.com/.
+<br/>
+Do You Have the Top Skills Employers Want?. The Balance Careers. (2020). Retrieved 18 April 2020, from https://www.thebalancecareers.com/top-skills-employers-want-2062481.
+<br/>
+Kaspersky.com.au. (2020). Retrieved 18 April 2020, from https://www.kaspersky.com.au/resource-center/definitions/what-is-cyber-security.
+<br/>
+What is Cybersecurity?. Forcepoint. (2020). Retrieved 18 April 2020, from https://www.forcepoint.com/cyber-edu/cybersecurity.
+<br/>
+Examining the state-of-the-art in cybersecurity. Rand.org. (2020). Retrieved 18 April 2020, from https://www.rand.org/randeurope/research/projects/cybersecurity-state-of-the-art.html.
+<br/>
 
 
 
