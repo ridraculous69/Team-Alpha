@@ -120,7 +120,24 @@ What can one do if they want to get into a Cybersecurity career?
 
 "Well, this can be answered in a very simple way or elaborated way.
 The short and simple answer is, know how to hack, apply for entry level positions and work your way up.
-The long, elaborated answer would be, you not only need to know how to hack but also how to think like a hacker. Being able to put yourself into hacker's shoes and being able to emulate their intentions is a key skill to have. The person should have a strong ethics but also understanding what is right and wrong. Knowing the right skillsets will definitely help. But, what will help you in the long run is having grit, being able to be persistent. Being able to find creative ways to come up with different, various solutions is what will differentiate you from a good pen-tester to an exceptional pen-tester." 
+The long, elaborated answer would be, you not only need to know how to hack but also how to think like a hacker. Being able to put yourself into hacker's shoes and being able to emulate their intentions is a key skill to have. The person should have a strong ethics but also understanding what is right and wrong. Knowing the right skillsets will definitely help. But, what will help you in the long run is having grit, being able to be persistent. Being able to find creative ways to come up with different, various solutions is what will differentiate you from a good pen-tester to an exceptional pen-tester."
+
+## Industry Data
+
+o How do the IT-specific skills in your required skill set rank in terms of demand
+from employers?
+
+Artical Intelligence is in the second place according to Top Fast-Growing Skills graph shown, followed by IT automation. 
+AI is a core necessary skillset that will be irreplaceable in the future and in terms of making our lives so much easier.
+
+o How do the general skills in your required skill set rank in terms of demand
+from employers?
+
+o What are the three highest ranked IT-specific skills which are not in your
+required skill set?
+
+o What are the three highest ranked general skills which are not in your required
+skill set?
 
 
 
