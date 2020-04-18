@@ -126,6 +126,8 @@ _Kim_ : **VR Software Developer (High-growth job)
 
 ### IT skillset 
 
+According to the graph shown, IT skillsets such as Artificial Intelligence which ranks seconds, and IT Automation ranking third, it clearly shows how in-demand these jobs will be in the upcoming years.
+
 
 
 
