@@ -92,36 +92,95 @@ https://appreal-vr.com/blog/virtual-reality-and-artificial-intelligence/
 
 <br/>
  
+ ### Thoughts on IT
+ <br/>
+ 
 >With both the complex systems together combined, the VR and AI will essentially change our perspectives towards opening up channels for healthcare, education, business, and entertainment.The advancement of technology is making a massive shift in how it impacts the way we live, work, and entertain ourselves. Big business game plays are coming and at the heart of it will be virtual reality and artificial intelligence. But as our technology advances, is our generation becoming lazier from the alteration of making anything and everything easier in our daily lives with the help of technology?
+<br/>
+
+
+## Industry Data
+<br/>
+
+### Job Titles
+<br/>
+
+
+![fast-growing](https://user-images.githubusercontent.com/62003066/79633693-fcdcb400-81a9-11ea-9808-7e889e7f3bc8.png)
+<br/>
+https://www.bcg.com/publications/2019/what-is-trending-jobs-skills.aspx
+<br/>
+
+_James_ : **AI Software Developer (High-growth job)
+
+<br/>
+
+_Kim_ : **VR Software Developer (High-growth job)
+
+<br/>
+
+>High-growth jobs are those that have fewer than 10,000 annual postings but are growing at an extremely high rate (more than 40%).
+<br/>
+
+### IT skillset 
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Interview Questions with IT Professional who's working in Cybersecurity industry as a penetration tester
 
 <br/>
 
+![cyber security](https://user-images.githubusercontent.com/62003066/79632823-116a7d80-81a5-11ea-835c-26d1207f8104.jpg)
+<br/>
+https://www.csoonline.com/article/3257672/us-cybersecurity-threat-risk-remains-high-no-signs-of-lessening.html
+
+<br/>
+
 Penetration Tester: Praveen. K
+<br/>
 
-Why did you choose Cyber Security?
+**Why did you choose Cyber Security?
+<br/>
 
-"I was greatly influenced by “The Matrix” and “Ghost in the shell”. Since I was 7, technology has been a great part of me. I’m also a gamer and I get very frustrated when hackers make themselves invulnerable by downloading illegal systems to the game. This made me research about hacking and I came across cyber security."
+>"I was greatly influenced by “The Matrix” and “Ghost in the shell”. Since I was 7, technology has been a great part of me. I’m also a gamer and I get very frustrated when hackers make themselves invulnerable by downloading illegal systems to the game. This made me research about hacking and I came across cyber security."
+<br/>
 
-How long have you been in Cyber Security for?
+**How long have you been in Cyber Security for?
+<br/>
 
-"I've been in Cybersecurity since 2010. I started from back home in Deli, India and soon found myself in love with pen-testing or penetration testing. I moved to Australia as I got a job opportunity with IBM and a contractor working for big Airlines such as Qantas and Jetstar. My latest work was testing the Qantas database and running multiple penetration testing to check the security level of the Airline."
+>"I've been in Cybersecurity since 2010. I started from back home in Deli, India and soon found myself in love with pen-testing or penetration testing. I moved to Australia as I got a job opportunity with IBM and a contractor working for big Airlines such as Qantas and Jetstar. My latest work was testing the Qantas database and running multiple penetration testing to check the security level of the Airline."
+<br/>
 
-Where do you spend most of your time working as a pen-tester?
+**Where do you spend most of your time working as a pen-tester?
+<br/>
 
-"Usually in the IBM office, where we work in small group of 4 people per team on a given day. Occationally, travelling to other locations to run tests. However, nowadays we are all working from home because of Coronavirus and we're making slow changes so some of us can work from home in the future as well, and not necessarily having to come into the office. I think that's the beauty of working in most of the IT industry. Most of the work can be done remotely and it is a future proof, crisis proof industry."
+>"Usually in the IBM office, where we work in small group of 4 people per team on a given day. Occationally, travelling to other locations to run tests. However, nowadays we are all working from home because of Coronavirus and we're making slow changes so some of us can work from home in the future as well, and not necessarily having to come into the office. I think that's the beauty of working in most of the IT industry. Most of the work can be done remotely and it is a future proof, crisis proof industry."
+<br/>
 
-What aspect of your position is most challenging?
+**What aspect of your position is most challenging?
+<br/>
 
-"There's no particular instructions or guidelines when it comes to penetration testing. You have to be creative in many ways and think like a hacker would think. Being able to come up with different tactics to break the system, being able to put myself into the hacker's shoes and actually wanting to illegally gain sensitive company data, or even being able to try the same thing with a little variations over and over again so we make sure there is no issues. That would be the most challenging part of my role, but that said, it is the most fun and rewarding part of the job as well. If you're the type of person who is persistent and can let your imagination help with the work, you'll enjoy your role in Cybersecurity or as a pen-tester."
+>"There's no particular instructions or guidelines when it comes to penetration testing. You have to be creative in many ways and think like a hacker would think. Being able to come up with different tactics to break the system, being able to put myself into the hacker's shoes and actually wanting to illegally gain sensitive company data, or even being able to try the same thing with a little variations over and over again so we make sure there is no issues. That would be the most challenging part of my role, but that said, it is the most fun and rewarding part of the job as well. If you're the type of person who is persistent and can let your imagination help with the work, you'll enjoy your role in Cybersecurity or as a pen-tester."
+<br/>
 
-What can one do if they want to get into a Cybersecurity career?
+**What can one do if they want to get into a Cybersecurity career?
+<br/>
 
-"Well, this can be answered in a very simple way or elaborated way.
+>"Well, this can be answered in a very simple way or elaborated way.
 The short and simple answer is, know how to hack, apply for entry level positions and work your way up.
 The long, elaborated answer would be, you not only need to know how to hack but also how to think like a hacker. Being able to put yourself into hacker's shoes and being able to emulate their intentions is a key skill to have. The person should have a strong ethics but also understanding what is right and wrong. Knowing the right skillsets will definitely help. But, what will help you in the long run is having grit, being able to be persistent. Being able to find creative ways to come up with different, various solutions is what will differentiate you from a good pen-tester to an exceptional pen-tester." 
 
+<br/>
 
 
 
@@ -129,6 +188,8 @@ The long, elaborated answer would be, you not only need to know how to hack but 
 
 
 
+## References
+>Burning Glass Technologies | Real-Time Job Market Analytics Software. Burning Glass Technologies. (2019). Retrieved 18 April 2020, from https://www.burning-glass.com/.
 
 
 
