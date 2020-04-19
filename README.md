@@ -132,6 +132,10 @@ https://github.com/kimvpilapil/Team-Alpha/edit/master/README.md
 <br/>
 **James:**
 <br/>
+>This is my first time using Github and it definitely was an interesting experience. A little frustrating at times however, I have figured out how to use this tool.
+<br/>
+
+
 
 
 
