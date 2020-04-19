@@ -235,17 +235,30 @@ Social media such as Facebook, Instagram and twitter are famous for becoming hac
 
 
 ### Autonomous vehicles
+<br/>
 
->For each of the areas covered, you should report on the following.
-What does it do? (600 words) What is the state of the art of this new technology?
-What can be done now? What is likely to be able to do be done soon (say in the next
-3 years)? What technological or other developments make this possible?
-What is the likely impact? (300 words) What is the potential impact of this
-development? What is likely to change? Which people will be most affected and
-how? Will this create, replace or make redundant any current jobs or technologies?
-How will this affect you? (300 words) In your daily life, how will this affect you?
-What will be different for you? How might this affect members of your family or your
-friends?
+![batman](https://user-images.githubusercontent.com/62003066/79678438-f5b3b580-823e-11ea-87a1-8e041d2c3f94.jpg)
+<br/>
+https://www.theverge.com/2015/8/13/9132485/batman-arkham-knight-batmobile
+<br/>
+
+>What is an autonomous vehicle and why are they revolutionizing vehicles in today’s generation? An autonomous vehicle is basically anything that can transport without any human conduction; for simplicity, an example would be a car that can drive itself. Machines have come so far regarding further modifications of their functions and the ability to go almost anywhere whether that will be deep in the trenches of the sea using echolocations in the submarine or space and land on the moon. For now, we will be focusing on the famous automatic, self-driving cars that caused a major hype and shock in the industry.
+
+How exactly do self-driving car works? Engineers have been attempting to create fully auto-piloted cars for decades and the idea behind it is very simple; gear up a car with tons of cameras that can sense and track objects around it to have to ability to react to any dangers while also having the technology to navigate itself. Of course, as dictated from countless speeding and rule breaking tickets from highway officers, autonomous cars should also have the ability to abide traffic rules and regulations. Aren’t humans already struggling to do that from the start and now were teaching cars to follow those rules?
+<br/>
+
+Take for example googles self-driving car, Waymo. The project started back in 2009 with the vision of making it easy and safe for everyone to get to their destination while lowering the chances of car accidents. According to the World Health Organisation, millions of people die each year from road related accidents (https://extranet.who.int/roadsafety/death-on-the-roads/) with 1 death around the world for every 23 seconds. Factors such as disabilities and age are also responsible for these deaths and accidents. Waymo is the leading industry for self-driving cars along with Elon Musk’s vision of creating Tesla cars fully autonomous. It is high-resolution cameras and light detection and ranging allowing it to estimate distances to objects by bouncing light and sound off things. The car contains computer systems that can build a picture of where other cars, cyclist, obstacles, and pedestrians are and where they are moving to avoid accidents. To establish accurate data collection, cars must draw on millions of miles of driving data to form expectations about how other objects might move.
+<br/>
+
+Self-driving cars are making a revolutionary change in the industry. In the next 3 years, we will be seeing big players like google and tesla create fully auto-piloted cars with the help of technology such as the AI’s and VR’s. Why is it taking longer than expected to get self-driving cars on the road? For autonomous vehicles to be successful, they have to highly rely on AI’s and their ability to think for humans. There are limitations on how much AI’s can do and with this comes the navigation of our roads with high degree of reliability regarding the ability of solving real-world problems. To solve this, cars will need millions of car data from any incident that can be encountered; car engineers even created and trained car in simulations to create situations where obstacles are pre-deployed to obtain data on how the car and its computer system would react.
+<br/>
+
+Fair enough, were humans and we make mistakes and if we create AI’s with billions of data and information, they are less likely to or will not make mistakes at all. But what will happen to those whose job is to get us safely to our destinations? The taxi drivers and uber drivers’ jobs will be made redundant. Or for truck drivers and other vehicle drivers that makes their living by transporting goods? Some might argue that as humans we have temptations such as alcohol and drug consumptions and of course we also need our sleep. Countless of incidents have occurred due to vehicle drivers falling asleep in the road and waking up to having killed an innocent driver. Malicious intents also occur daily around the world with taxi and uber drivers threatening to kidnap and rape those whose only intent is to get home safely. Of course, we are in the backseat of a stranger’s car and were relying on them to be heavenly sent who will do the right thing all the time. With AI’s, there will not be instances where that will or can occur. Technology is so advanced that we can do real-time changes if needed be on software’s that will disable or fix any errors. And if it is an attack from cybercriminals such as hackers, we have the cyber security team for that. We are constantly trying to make daily living easier for humans by humans by creating and experimenting with no place for mistakes. In saying that, in March 18, 2018, for the first time ever, a woman was killed by a self-driving car who was riding her bicycle across the street. With this information, autonomous vehicles have a long way to go as AI’s cannot fully function like the human brain quite just yet. 
+<br/>
+
+In my opinion, I will not be able to be inside a self-driving car as being on the road scares myself in the first place. I do not want to have the guilt and burden on having my car kill someone due to a malfunction that could have been avoided if I was driving myself. Car accidents occur either from dumb and stupid drivers who should not be in the road in the first place and unexpected events. It is called unexpected in the first place and if humans cannot react to it to avoid it, how can AI’s do the same? I guess if they have better high-quality motion cameras and echolocations that can only be found on submarines and spaceships, we might have a chance with creating this revolutionary machine.
+<br/>
+
 
 ### Natural Language processing and chatterbots
 
@@ -310,6 +323,12 @@ Benefits of Self-Driving Vehicles - Coalition For Future Mobility. Coalition For
 Insights, S. (2020). Machine Learning: What it is and why it matters. Sas.com. Retrieved 19 April 2020, from https://www.sas.com/en_us/insights/analytics/machine-learning.html#machine-learning-today-world.
 <br/>
 Lee, T. (2020). Why Google believes machine learning is its future. Ars Technica. Retrieved 19 April 2020, from https://arstechnica.com/gadgets/2019/05/googles-machine-learning-strategy-hardware-software-and-lots-of-data/.
+<br/>
+Global status report on road safety 2018. Who.int. (2018). Retrieved 19 April 2020, from https://www.who.int/publications-detail/global-status-report-on-road-safety-2018.
+<br/>
+Home – Waymo. Waymo. (2020). Retrieved 19 April 2020, from https://waymo.com/.
+<br/>
+It’s 2020. Where are our self-driving cars?. Vox. (2020). Retrieved 19 April 2020, from https://www.vox.com/future-perfect/2020/2/14/21063487/self-driving-cars-autonomous-vehicles-waymo-cruise-uber.
 <br/>
 
 
