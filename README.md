@@ -451,9 +451,32 @@ https://8tracks.com/osbournez/naruto-team-7-fanmix
 -You really can’t do a group project on your own. We struggled with just the 2 of us but we pushed through it because who would want to fail?
 <br/>
 
+
 **James**
+<br/>
 
+• What went well
 
+The communication from each of the group members (Kimverly Pilapil and myself) was very quick and efficient. All of us knew what tasks to complete and promptly worked on each of the given task and had a great understanding of the amount of work required to be completed each day before the due date.
+<br/>
+
+• What could be improved
+<br/>
+
+In terms of organizing, this is the area that the rest of the group members in our team made it very difficult. Despite sending numerous messages – both Kim and I did not get a response from any of them. Which forced Kim and I to work on the assignment ourselves. Hence, resulting in more workload and a bit of added stress.
+<br/>
+
+• At least one thing that was surprising.
+<br/>
+
+One thing that was surprising to me is how irresponsible other group members can be.  And the fact that not everyone thinks the same was as I do in terms of caring for the end result as a group and trying everything necessary to achieve the end goal. The lack of communication from members who did not participated was surprising, because as an enrolled student, we should all take the assignments and assessment seriously if you’re studying this course.
+<br/>
+
+• At least one thing that I have learned about groups
+<br/>
+
+Groups can be extremely difficult to organize, especially if the other group members don’t have any care in the world. Communication can be difficult but it can be worked on if everyone in the group participates and puts effort into communicating effectively.
+<br/>
 
 
 
