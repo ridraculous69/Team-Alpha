@@ -123,10 +123,11 @@ https://github.com/kimvpilapil/Team-Alpha/edit/master/README.md
 <br/>
 Kim: 
 <br/>
->Although I haven't used Github before, it was quite fun to play around with and the real-time changes that our team can make made it much easier and more funtional when making this group project. Will need to do more reasearch in creating our won theme by exploring jekyll in the future.
+> Although I haven't used Github before, it was quite fun to play around with and the real-time changes that our team can make made it much easier and more funtional when making this group project. Will need to do more reasearch in creating our won theme by exploring jekyll in the future.
 <br/>
 
 James:
+> This is my first time using Github and it definitely was an interesting experience. A little frustrating at times however, I have figured out how to use this tool. It was quite cool to see the real-time updates our team members can contribute to. I can see how this tool can be very useful when it comes to working on a group projects.
 <br/>
 
 
