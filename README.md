@@ -462,40 +462,55 @@ https://8tracks.com/osbournez/naruto-team-7-fanmix
 
 ## References
 <br/>
+
 1301.0 - Year Book Australia, 2006. Abs.gov.au. (2020). Retrieved 19 April 2020, from https://www.abs.gov.au/ausstats/abs@.nsf/Previousproducts/1301.0Feature%20Article32006.
 <br/>
+
 Benefits of Self-Driving Vehicles - Coalition For Future Mobility. Coalition For Future Mobility. (2020). Retrieved 19 April 2020, from https://coalitionforfuturemobility.com/benefits-of-self-driving-vehicles/.
 <br/>
+
 Bots, E., & Course, F. (2020). ManyChat – Chat Marketing Made Easy. Manychat.com. Retrieved 19 April 2020, from https://manychat.com/?utm_source=Google&utm_medium=cpc&utm_campaign=Brand&utm_content=free-trial&gclid=Cj0KCQjwyur0BRDcARIsAEt86IAsiSY_0gMq0gCcX7XaYBLWtoJ0i8Qj0y8xLbfo57Wdmm794tl2v-4aAvK1EALw_wcB.
 <br/>
+
 Burning Glass Technologies | Real-Time Job Market Analytics Software. Burning Glass Technologies. (2019). Retrieved 18 April 2020, from https://www.burning-glass.com/.
 <br/>
+
 Ceba our NetBank and CommBank app chatbot. (2020). Retrieved 19 April 2020, from https://www.commbank.com.au/support/ceba.html
 <br/>
+
 Chatbot Concepts  |  Hangouts Chat API  |  Google Developers. Google Developers. (2020). Retrieved 19 April 2020, from https://developers.google.com/hangouts/chat/concepts/bots.
-<br/>
+<br
+
 Cold War Nuclear Fallout Shelters Were Never Going to Work. HISTORY. (2020). Retrieved 19 April 2020, from https://www.history.com/news/nuclear-fallout-shelters-were-never-going-to-work.
 <br/>
+
 Do You Have the Top Skills Employers Want?. The Balance Careers. (2020). Retrieved 18 April 2020, from https://www.thebalancecareers.com/top-skills-employers-want-2062481.
 <br/>
+
 Examining the state-of-the-art in cybersecurity. Rand.org. (2020). Retrieved 18 April 2020, from https://www.rand.org/randeurope/research/projects/cybersecurity-state-of-the-art.html.
 <br/>
 Global status report on road safety 2018. Who.int. (2018). Retrieved 19 April 2020, from https://www.who.int/publications-detail/global-status-report-on-road-safety-2018.
 <br/>
+
 Home – Waymo. Waymo. (2020). Retrieved 19 April 2020, from https://waymo.com/.
 <br/>
 Hutchinson, A., & Hutchinson, A. (2020). Google is Working on Chatbots Which Can Engage in a More Genuine, Human Conversation. Social Media Today. Retrieved 19 April 2020, from https://www.socialmediatoday.com/news/google-is-working-on-chatbots-which-can-engage-in-a-more-genuine-human-con/571354/.
 <br/>
 Insights, S. (2020). Machine Learning: What it is and why it matters. Sas.com. Retrieved 19 April 2020, from https://www.sas.com/en_us/insights/analytics/machine-learning.html#machine-learning-today-world.
 <br/>
+
 It’s 2020. Where are our self-driving cars?. Vox. (2020). Retrieved 19 April 2020, from https://www.vox.com/future-perfect/2020/2/14/21063487/self-driving-cars-autonomous-vehicles-waymo-cruise-uber.
 <br/>
+
 Kaspersky.com.au. (2020). Retrieved 18 April 2020, from https://www.kaspersky.com.au/resource-center/definitions/what-is-cyber-security.
 <br/>
+
 Lee, T. (2020). Why Google believes machine learning is its future. Ars Technica. Retrieved 19 April 2020, from https://arstechnica.com/gadgets/2019/05/googles-machine-learning-strategy-hardware-software-and-lots-of-data/.
 <br/>
+
 The Future of AI in Agriculture - Intel. Intel. (2020). Retrieved 19 April 2020, from https://www.intel.com.au/content/www/au/en/big-data/article/agriculture-harvests-big-data.html.
 <br/>
+
 What is Cybersecurity?. Forcepoint. (2020). Retrieved 18 April 2020, from https://www.forcepoint.com/cyber-edu/cybersecurity.
 <br/>
 
