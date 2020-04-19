@@ -100,12 +100,14 @@ https://appreal-vr.com/blog/virtual-reality-and-artificial-intelligence/
 
 ## Tools
 <br/>
+
 ![git](https://user-images.githubusercontent.com/62003066/79680057-d58bf280-824e-11ea-8139-71a0ff832ee4.jpg)
 <br/>
 https://thenextweb.com/dd/2020/04/15/github-is-now-free-for-all-developer-teams/
 <br/>
 
 ### Group Website
+<br/>
 
 
 
