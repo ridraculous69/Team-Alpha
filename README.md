@@ -299,6 +299,51 @@ Machine learning, artificial intelligence is considered to be one of the biggest
 How will this change affect me? It will have a very positive impact on my daily lives and my schedule. I am pro-technology and cannot wait for these changes to come into place permanently. It will not only increase my productivity levels but it will free up time in my day. That will be the major difference for me. How it would affect my family members or friends is also very similar. Even my grandparents are quite tech-savvy, as well as my parents. They welcome change and are very open-minded. They are also very fast to adapt and implement new technologies or systems in their daily lives. As working professionals, for myself and for my friends, we will all appreciate the change as it will provide us with more opportunities to allocate extra hours in our days to something else, give us the piece of mind, being able to relax when driving, and much more. If you’re not open to these changes and against it, I would first ask you, why? Wouldn’t you want more time throughout your day? Wouldn’t you want that piece of mind on your commute to work? Wouldn’t you want more convenience?
 <br/>
 
+## Project ideas
+<br/>
+![moonn](https://user-images.githubusercontent.com/62003066/79679581-47ae0880-824a-11ea-98d0-d151353c0f87.jpg)
+<br/>
+https://www.universetoday.com/50337/neil-armstrong-facts/
+<br/>
+
+
+>We would like to come up with a project idea regarding the agriculture aspect of technology. As we know Australia is mostly deserts that are uninhabitable by humans. Australia forms the largest arid region in the southern hemisphere covering 3.5 millions sq km of deserts and salt lakes. Of course we can’t forget the fact that we also have some of the deadliest animals and insects in the world; one sting from a venomous snake will lead to death. Furthermore, we have to respect the Indigenous peoples' land and will not touch their sacred land.
+<br/>
+
+Ideas:
+<br/>
+-Turning sand into soil for crops to grow without constantly being watered
+<br/>
+-Create space that can survive in the desert and will hold the crops
+<br/>
+-Technology that can detect weather changes and alter storage space accordingly
+<br/>
+-AI’s technology, self-maintaining area in the desert for sustainability
+<br/>
+
+For this project we will focus on what humanity has come up with and aid it better for the purpose of this project. As we know, if technology has advanced since decades and decades ago, then how come most of Australia is still uninhabitable. Mother nature is a natural occurrence that cannot be controlled and we can only work with it.
+<br/>
+
+Turning sand into soil has already been established but not perfected. It involves mixing different types of products that will ultimately change the sand into soil that crops can grow in. With the help of technology, we would like to create better soil that can self-water itself; of course this will need extreme experimentation from different types of experts and specialists, but we believe that this will revolutionize the whole world. Think about it, more land will equal to more food that will create more job opportunities for everyone and feed those suffering financially. I agree that we have to focus on what we can do now but we believe in the long term goal which will gradually help with the rise of the IT empire. Furthermore, we have talked about technology and how it can improve our daily lives by letting technology do the work for us, but what happens to those that can’t afford such things as they can’t even afford to eat 3 meals a day. We strongly believe that more research should be done in the agricultural industry which will create a bigger impact to today's society globally.
+<br/>
+
+Checklist:
+<br/>
+-Turning sand into self-sustaining soil
+<br/>
+ -Geoscientist to explore ways this can be made possible via experimentation
+ <br/>
+-Creating storage space
+<br/>
+ -Engineers; with the same idea of creating fallout shelters that will not inhibit crop growth and should include a computer system that can monitor and change inside conditions depending on how the crops are growing.
+ <br/>
+-AI Technology
+<br/>
+ -Software developers and a whole lot of tech teams due to its complexity. To have an AI self-sustain the entire shelter from changing the inside environment to helping meteorologist understand desert like weather conditions that can help humanity establish settlements in the future.
+ <br/>
+
+This project will ideally take more decades to launch but the harvest in the end will pay off for all those decades of research and hard work. This project can initially be used not just on land but also on water since we know plants can grow on sea land; furthermore, this trial will give light to planting crops in uninhabitable lands such as the moon. There are endless possibilities in this project, and we believe that whoever finalises and launch this technology will be one of the highest shareholders in the world. Can you imagine growing crops in the moon without humans but AI’s, with full control of the whole land? That, will be revolutionary.
+<br/>
 
 
 
@@ -330,7 +375,11 @@ Home – Waymo. Waymo. (2020). Retrieved 19 April 2020, from https://waymo.com/.
 <br/>
 It’s 2020. Where are our self-driving cars?. Vox. (2020). Retrieved 19 April 2020, from https://www.vox.com/future-perfect/2020/2/14/21063487/self-driving-cars-autonomous-vehicles-waymo-cruise-uber.
 <br/>
-
-
+1301.0 - Year Book Australia, 2006. Abs.gov.au. (2020). Retrieved 19 April 2020, from https://www.abs.gov.au/ausstats/abs@.nsf/Previousproducts/1301.0Feature%20Article32006.
+<br/>
+Cold War Nuclear Fallout Shelters Were Never Going to Work. HISTORY. (2020). Retrieved 19 April 2020, from https://www.history.com/news/nuclear-fallout-shelters-were-never-going-to-work.
+<br/>
+The Future of AI in Agriculture - Intel. Intel. (2020). Retrieved 19 April 2020, from https://www.intel.com.au/content/www/au/en/big-data/article/agriculture-harvests-big-data.html.
+<br/>
 
 
