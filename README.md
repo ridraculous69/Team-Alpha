@@ -130,8 +130,10 @@ https://github.com/kimvpilapil/Team-Alpha/edit/master/README.md
 <br/>
 
 <br/>
+
 **James:**
 <br/>
+
 >This is my first time using Github and it definitely was an interesting experience. A little frustrating at times however, I have figured out how to use this tool.
 <br/>
 
@@ -183,6 +185,7 @@ Three highest ranked general skillset will be problem solving, positive attitude
 
 
 <br/>
+
 ## Interview Questions with IT Professional who's working in Cybersecurity industry as a penetration tester
 
 <br/>
@@ -366,6 +369,7 @@ How will this change affect me? It will have a very positive impact on my daily 
 
 
 <br/>
+
 ## Project ideas
 <br/>
 
