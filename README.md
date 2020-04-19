@@ -162,25 +162,33 @@ Kim:VR Software Developer (High-growth job)
 <br/>
 
 
-![fast-growing](https://user-images.githubusercontent.com/62003066/79633693-fcdcb400-81a9-11ea-9808-7e889e7f3bc8.png)
-<br/>
-https://www.bcg.com/publications/2019/what-is-trending-jobs-skills.aspx
-<br/>
-
-
 
 
 <br/>
 
 ### IT skillset 
+<br/>
 
-According to the graph shown, IT skillsets such as Artificial Intelligence which ranks seconds, and IT Automation ranking third, it clearly shows how in-demand these jobs will be in the upcoming years.
+**How do the IT-specific skills in your required skill set rank in terms of demand
+from employers?**
+<br/>
 
-General skills required included the following: Algorithmic understanding, problem solving, Leadership skills, Positive Attitude and Technical Skils. General skills are a compliment to your IT skillsets and it will advance your ability to contribute to projects and team assignments much better.
+![IT graph](https://user-images.githubusercontent.com/62003066/79680867-e9882200-8257-11ea-812a-c164d80e3f62.jpg)
+<br/>
 
-Three highest ranked IT-specific skillset which is not required in my skillset are: Fintech (Financial Technology). The rest of the skillset listed are all necessary requirements. For Artificial intelligence - Machine learning, Natural language processing, Data Visualisation, Application programming interface, Data science to name a few are all complimentary and necessary.
+According to the graph, the top 3 rate skills in IT are SQL, Javacript and Java which we are currently learning in introductions to programming which will set us up higher in finding jobs in the future. Do be able to progress more, SQL should also be learned as it is ranked number 1 according to the graph.
+
+<br/>
+
+![general graph](https://user-images.githubusercontent.com/62003066/79680959-cb6ef180-8258-11ea-95e1-153981e48334.jpg)
+
+
+
+
 
 Three highest ranked general skillset will be communication skills, problem solving skills and organisation skills. Problem solving skills allow you to approach different kinds of projects in a very techical manner. Communication skills is also one of key components and highest ranked general skillset. The reason being, is that when working on projects, it is crucial that you interact with other team members to communicate different errors or a bugs or ideas. Otherwise it can be difficult to achieve the end result. When doing an IT project you'll find that most likely you will work in a group, as a team. Hence, being able to have an ability to organise the team to set deadlines and set a clear goal is an important skillset to have to achieve the desired end result. 
+
+
 <br/>
 
 
