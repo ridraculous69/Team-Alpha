@@ -278,16 +278,26 @@ In my opinion, I will not be able to be inside a self-driving car as being on th
 
 ### Natural Language processing and chatterbots
 
->For each of the areas covered, you should report on the following.
-What does it do? (600 words) What is the state of the art of this new technology?
-What can be done now? What is likely to be able to do be done soon (say in the next
-3 years)? What technological or other developments make this possible?
-What is the likely impact? (300 words) What is the potential impact of this
-development? What is likely to change? Which people will be most affected and
-how? Will this create, replace or make redundant any current jobs or technologies?
-How will this affect you? (300 words) In your daily life, how will this affect you?
-What will be different for you? How might this affect members of your family or your
-friends?
+We’re going to delve into the topics of Natural Language Processing and Chatbots. First of all, what do they do? Well, both of these go hand in hand and it can compliment one another. A natural language processing or short for NLP is a branch of artificial intelligence that mainly deals with the interaction between computers and humans using the natural language. 
+
+Most natural language processing techniques heavily rely on machine learning to derive meaning from human languages, and we’ll go in more depth about Machine Learning in the following article. Chatbots are a software application used to conduct an online chat conversation via text or text-to-speech, in lieu of providing direct contact with a live human agent. Most popular examples of these are Commonwealth Bank of Australia’s own Artificial Intelligence Assistant called Ceba and a sales and marketing Facebook Chatbot application and website called ManyChat. Ceba is a digital banking assistant whose sole purpose is to answer Commonwealth bank’s customer’s day to day banking questions. It is available 24 hours in a day, and I have personally used the chatbot myself. At the current stage, it is not the most convenient way to get your questions answered and it does have its limitations. The chatbots ability to ask a sophisticated question is very limited and you’ll need to contact a human agent on the other side of the phone, which defeats the whole purpose of the chatbot application. On the other hand, ManyChat, Facebook’s messenger bot application commonly used for message marketing – to improve sales for the business, build a meaningful relationship with their customers through message marketing and so on. I have personally used this software for my freelance work before and it is a little more well integrated and has a lot of useful features compared to the banking chatbot Ceba. It is clear that when it comes to natural language processing and chatbots.
+
+However, within the next 3 years, there can be a lot of development areas and it is looking promising. According to the giant technology company Google, they are building a more well integrated and advanced chatbot which can mimic a real-life agent’s (human’s) responses. What this means for us users, is that we can engage in a more genuine, human conversations. It’ll improve the ratings and reviews for the businesses as the bot can self-sustain and assist customers query and it minimizes wait times for the users and clients. So, what makes natural language processing and chatbot applications possible? What is behind all these cool applications? Well, it mostly involves these 4 things. The ability to preprocess, feature extraction/ NLP model implementation, implementing a classification or clustering algorithm and testing the trained model and benchmarking its performance. To give an example of how these 4 things integrate together, the NLP program cleans up data before processing it. It then converts the textual data into vectors after extracting the text’s features. It trains a classifier to categorize the data. The model is then benchmarked based on parameters such as accuracy, precision and recall. The process is repeated with different combinations of models and classifiers to find the optimal solution.  
+
+The impact these technological advancements it can bring to us, is a lot of positive impacts. Positive solutions include but not limited to, being able to conveniently inquire as a user, about specific question you may have in regards to the company – whether that is banking inquiry, phone bill inquiry or even booking inquiry for your next travel. The results, save more time, and create happy customers and users. It’s a win-win for the both sides, consumers and businesses. To give a simple example, most people have called their banking customer support service hotline before. Usually, the wait times can be quite long, and especially with this pandemic, it took me 90 minutes to get connected to a banking agent on the other side of the phone. 90 minutes. By implementing a well-working chatbot system, developed with the help of natural language processing techniques, it can definitely has a positive impacts for the businesses, especially in the customer service sector as there will be less angry customers for waiting too long in the queue, and create more happy customers as their questions could be resolved promptly. For us, it can certainly save a lot of time. However, there will be a downside to implementing this system globally. It will make customer service jobs redundant as there will be no requirement for a human to operate these services. As Google has introduced in their recent presentation – their Voice AI, can have a fully functioning and genuine human like conversation.
+
+This implementation will have a very positive impact on my daily life. I can call any customer service line any time of the day without having to specifically abide by the businesses’ operating hours. Especially for working individuals like myself, the operating hours are usually when I am at work. Hence, making it difficult for me to contact them on weekdays. And for the most part, they’re not open on the weekends. The other benefit would be the speed of resolution. The bot’s quick ability to assess the inquiry and answer questions with speed can definitely increase my satisfactory level toward the specific company and save me a lot of time. Plus, for my parents and grandparents who are originally from South Korea, are not the most fluent English speakers. And for the bot to understand different languages can definitely be of an assistant to non-native speakers. This system is something that I’m looking forward to and I’m certain that most of you reading this article is excited with the thought of this technology. 
+
+## References
+
+https://manychat.com/?utm_source=Google&utm_medium=cpc&utm_campaign=Brand&utm_content=free-trial&gclid=Cj0KCQjwyur0BRDcARIsAEt86IAsiSY_0gMq0gCcX7XaYBLWtoJ0i8Qj0y8xLbfo57Wdmm794tl2v-4aAvK1EALw_wcB
+https://www.commbank.com.au/support/ceba.html
+https://www.socialmediatoday.com/news/google-is-working-on-chatbots-which-can-engage-in-a-more-genuine-human-con/571354/
+https://developers.google.com/hangouts/chat/concepts/bots
+https://www.youtube.com/watch?v=D5VN56jQMWM
+https://www.youtube.com/watch?v=USXoINPEhoA
+
+
 
 ### Machine Learning
 <br/>
