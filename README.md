@@ -101,7 +101,9 @@ https://appreal-vr.com/blog/virtual-reality-and-artificial-intelligence/
 
 
 <br/>
+
 ## Tools
+
 <br/>
 
 ![git](https://user-images.githubusercontent.com/62003066/79680057-d58bf280-824e-11ea-8139-71a0ff832ee4.jpg)
@@ -275,6 +277,7 @@ Social media such as Facebook, Instagram and twitter are famous for becoming hac
 
 
 <br/>
+
 ### Autonomous vehicles
 <br/>
 
@@ -408,6 +411,7 @@ This project will ideally take more decades to launch but the harvest in the end
 
 
 <br/>
+
 ## Group Reflection
 <br/>
 
