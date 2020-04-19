@@ -93,11 +93,14 @@ https://appreal-vr.com/blog/virtual-reality-and-artificial-intelligence/
 <br/>
  
  ### Thoughts on IT
- <br/>
+
+<br/>
  
 >With both the complex systems together combined, the VR and AI will essentially change our perspectives towards opening up channels for healthcare, education, business, and entertainment.The advancement of technology is making a massive shift in how it impacts the way we live, work, and entertain ourselves. Big business game plays are coming and at the heart of it will be virtual reality and artificial intelligence. But as our technology advances, is our generation becoming lazier from the alteration of making anything and everything easier in our daily lives with the help of technology?
 <br/>
 
+
+<br/>
 ## Tools
 <br/>
 
@@ -107,6 +110,23 @@ https://thenextweb.com/dd/2020/04/15/github-is-now-free-for-all-developer-teams/
 <br/>
 
 ### Group Website
+<br/>
+https://kimvpilapil.github.io/Team-Alpha/
+<br/>
+
+### GitHub
+<br/>
+https://github.com/kimvpilapil/Team-Alpha/edit/master/README.md
+<br/>
+
+### Reflection
+<br/>
+Kim: 
+<br/>
+>Although I haven't used Github before, it was quite fun to play around with and the real-time changes that our team can make made it much easier and more funtional when making this group project. Will need to do more reasearch in creating our won theme by exploring jekyll in the future.
+<br/>
+
+James:
 <br/>
 
 
@@ -139,6 +159,7 @@ https://www.bcg.com/publications/2019/what-is-trending-jobs-skills.aspx
 
 
 
+<br/>
 
 ### IT skillset 
 
@@ -250,6 +271,7 @@ Social media such as Facebook, Instagram and twitter are famous for becoming hac
 <br/>
 
 
+<br/>
 ### Autonomous vehicles
 <br/>
 
@@ -276,6 +298,7 @@ In my opinion, I will not be able to be inside a self-driving car as being on th
 <br/>
 
 
+<br/>
 ### Natural Language processing and chatterbots
 
 >For each of the areas covered, you should report on the following.
@@ -288,6 +311,9 @@ how? Will this create, replace or make redundant any current jobs or technologie
 How will this affect you? (300 words) In your daily life, how will this affect you?
 What will be different for you? How might this affect members of your family or your
 friends?
+
+
+<br/>
 
 ### Machine Learning
 <br/>
@@ -315,6 +341,8 @@ Machine learning, artificial intelligence is considered to be one of the biggest
 How will this change affect me? It will have a very positive impact on my daily lives and my schedule. I am pro-technology and cannot wait for these changes to come into place permanently. It will not only increase my productivity levels but it will free up time in my day. That will be the major difference for me. How it would affect my family members or friends is also very similar. Even my grandparents are quite tech-savvy, as well as my parents. They welcome change and are very open-minded. They are also very fast to adapt and implement new technologies or systems in their daily lives. As working professionals, for myself and for my friends, we will all appreciate the change as it will provide us with more opportunities to allocate extra hours in our days to something else, give us the piece of mind, being able to relax when driving, and much more. If you’re not open to these changes and against it, I would first ask you, why? Wouldn’t you want more time throughout your day? Wouldn’t you want that piece of mind on your commute to work? Wouldn’t you want more convenience?
 <br/>
 
+
+<br/>
 ## Project ideas
 <br/>
 
@@ -361,6 +389,41 @@ Checklist:
 
 This project will ideally take more decades to launch but the harvest in the end will pay off for all those decades of research and hard work. This project can initially be used not just on land but also on water since we know plants can grow on sea land; furthermore, this trial will give light to planting crops in uninhabitable lands such as the moon. There are endless possibilities in this project, and we believe that whoever finalises and launch this technology will be one of the highest shareholders in the world. Can you imagine growing crops in the moon without humans but AI’s, with full control of the whole land? That, will be revolutionary.
 <br/>
+
+
+<br/>
+## Group Reflection
+<br/>
+
+![team 7](https://user-images.githubusercontent.com/62003066/79680223-92cb1a00-8250-11ea-9474-8a0c6cc4bc05.jpg)'
+<br/>
+https://8tracks.com/osbournez/naruto-team-7-fanmix
+<br/>
+
+**Kim**
+<br/>
+
+• What went well
+<br/>
+-We worked really well in this project together by accepting and evaluating each other's ideas to finish this project. Even though this project is quite a lot to take on with just the two of us, we finished it without having to rush as we both took pride in making sure we didn't let each other down by committing to certain aspects of the project in a timely manner.
+<br/>
+
+• What could be improved
+<br/>
+-Definitely our other teammates. This project could have gone more smoothly if 4-6 people worked with us as it means for brains and more ideas. We tried our best contacting them but we can’t just give up and not hand in an assignment. I’m proud of what James and I have accomplished with the completion of this project.
+<br/>
+
+• At least one thing that was surprising
+<br/>
+-Did not know technology is growing that fast, especially with self-driving cars and AI’s. I’m looking forward to what we can accomplish in the next decade.
+<br/>
+
+• At least one thing that you have learned about groups
+<br/>
+-You really can’t do a group project on your own. We struggled with just the 2 of us but we pushed through it because who would want to fail?
+<br/>
+
+**James**
 
 
 
