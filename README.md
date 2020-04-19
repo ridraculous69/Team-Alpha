@@ -98,6 +98,20 @@ https://appreal-vr.com/blog/virtual-reality-and-artificial-intelligence/
 >With both the complex systems together combined, the VR and AI will essentially change our perspectives towards opening up channels for healthcare, education, business, and entertainment.The advancement of technology is making a massive shift in how it impacts the way we live, work, and entertain ourselves. Big business game plays are coming and at the heart of it will be virtual reality and artificial intelligence. But as our technology advances, is our generation becoming lazier from the alteration of making anything and everything easier in our daily lives with the help of technology?
 <br/>
 
+## Tools
+<br/>
+![git](https://user-images.githubusercontent.com/62003066/79680057-d58bf280-824e-11ea-8139-71a0ff832ee4.jpg)
+<br/>
+https://thenextweb.com/dd/2020/04/15/github-is-now-free-for-all-developer-teams/
+<br/>
+
+### Group Website
+
+
+
+
+
+
 
 ## Industry Data
 <br/>
